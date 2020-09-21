@@ -1,5 +1,5 @@
 //Created by Shelley Ophir
-//Coding Dojo Sep. ,2020
+//Coding Dojo Sep. 21,2020
 //Create an algorithm for each of the challenges below
 
 //Print odds 1-20
